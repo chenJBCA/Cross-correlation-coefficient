@@ -12,6 +12,8 @@
 
 #Output polspice fits files: map1 auto-spectrum; map2 auto-spectrum; map1Xmap2 cross-spectrum; map1Xmap2 cross-correlation coefficient.
 
-#Optional anafast output: map1 auto-spectrum; map2 auto-spectrum; map1Xmap2 cross-spectrum; map1Xmap2 cross-correlation coefficient.
+#Optional anafast fits output: map1 auto-spectrum; map2 auto-spectrum; map1Xmap2 cross-spectrum; map1Xmap2 cross-correlation coefficient.
+
+#Output ps file: Cross-correlation coefficient of the two maps from polspice, optionally overplotting with that of anafast.
 
 #To run: 1.Type 'idl' in your terminal; 2.Type '.run szcor.pro'; 3. Type 'szcor'.
