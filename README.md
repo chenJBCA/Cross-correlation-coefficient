@@ -1,6 +1,9 @@
 #Instructions:
+
 #Purpose: To compute the cross-spectrum of two maps and return their cross-correlation coefficient
+
 #Defination: Cross-correlation coefficient = cross-spectrum/sqrt(auto-spectrum1 X auto-spectrum2)
+
 #Requirement: IDL; Polspice 3.03; Healpix 3.11;
 
 #Input files: 2 maps to be cross-correlated; 1 weight map to be applied to the cross-correlation.
